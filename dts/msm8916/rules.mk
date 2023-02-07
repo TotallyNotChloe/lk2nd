@@ -8,7 +8,6 @@ DTBS += \
 	$(LOCAL_DIR)/msm8216-samsung-r05.dtb \
 	$(LOCAL_DIR)/msm8216-samsung-r07.dtb \
 	$(LOCAL_DIR)/msm8216-samsung-r08.dtb \
-	$(LOCAL_DIR)/msm8916-512mb-mtp.dtb \
 	$(LOCAL_DIR)/msm8916-asus-z00l.dtb \
 	$(LOCAL_DIR)/msm8916-huawei-g7-l01.dtb \
 	$(LOCAL_DIR)/msm8916-huawei-hwt1a21l.dtb \
@@ -20,7 +19,6 @@ DTBS += \
 	$(LOCAL_DIR)/msm8916-motorola-surnia.dtb \
 	$(LOCAL_DIR)/msm8916-mtp.dtb \
 	$(LOCAL_DIR)/msm8916-mtp-smb1360.dtb \
-	$(LOCAL_DIR)/msm8916-512mb-qrd-skuh.dtb \
 	$(LOCAL_DIR)/msm8916-qrd-skut1.dtb \
 	$(LOCAL_DIR)/msm8916-qrd4-v1.dtb \
 	$(LOCAL_DIR)/msm8916-qrd5-v1.dtb \
@@ -36,7 +34,6 @@ DTBS += \
 	$(LOCAL_DIR)/msm8916-samsung-r06.dtb \
 	$(LOCAL_DIR)/msm8916-samsung-r08.dtb \
 	$(LOCAL_DIR)/msm8916-samsung-r11.dtb \
-	$(LOCAL_DIR)/msm8929-qrd-wt82918.dtb \
 	$(LOCAL_DIR)/msm8929-samsung-r00.dtb \
 	$(LOCAL_DIR)/msm8929-samsung-r04.dtb \
 	$(LOCAL_DIR)/msm8939-asus-z00t.dtb \
